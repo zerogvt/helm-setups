@@ -1,3 +1,5 @@
 # Helm synthesizer presets
 
-Helm: http://tytel.org/helm/
+Download Helm: http://tytel.org/helm/
+Contribute/fork: https://github.com/mtytel/helm
+
